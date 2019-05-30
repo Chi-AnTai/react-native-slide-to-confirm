@@ -1,5 +1,5 @@
 {
-  "name": "slidetoconfirm",
+  "name": "react-native-slide-to-confirm",
   "version": "1.0.0",
   "description": "A react native component which let user to slide to confirm",
   "main": "index.js",
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "react-native",
-    "slideToConfirm"
+    "slideToConfirm",
+    "slide-to-confirm"
   ],
   "author": "andyTai",
   "license": "MIT",
