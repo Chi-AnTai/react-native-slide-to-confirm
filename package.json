@@ -1,0 +1,18 @@
+{
+  "name": "slidetoconfirm",
+  "version": "1.0.0",
+  "description": "A react native component which let user to slide to confirm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "slideToConfirm"
+  ],
+  "author": "andyTai",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.54.1"
+  }
+}
