@@ -1,4 +1,5 @@
 # React Native Slide To Confirm
+A simple react-native component that let user slide to confirm.
 
 ## Install
 
